@@ -1,0 +1,24 @@
+main {
+    section {
+        h2{
+            color: red;//Estilo de h2
+        }
+        .p {
+            color: aqua;   //estilo de p
+        }
+        img {
+            //estilo de img
+            color: brown;
+        }
+        
+        button {
+            //estilo de button
+            color: black;
+            &:hover {
+                color: red;
+            }
+        }
+
+    }
+}
+

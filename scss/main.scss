@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+@import './secciones/barra-de-navegacion';
+@import './secciones/index-main';
+@import './media-querys/mobile-first'
+
